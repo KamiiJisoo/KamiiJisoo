@@ -3,7 +3,7 @@
 
 
 
-<img src="https://tenor.com/es-419/view/chopper-one-piece-chopper-tony-tony-chopper-gif-9769840479248025596" width="30px">&nbsp;***About me***
+<img src="https://tenor.com/es-419/view/chopper-one-piece-chopper-tony-tony-chopper-gif-9769840479248025596.gif" width="30px">&nbsp;***About me***
 
 Mechatronics engineer with a particular focus on automation, mechanical design, programming, and artificial intelligence. Throughout my academic journey, I've had the opportunity to explore a wide range of areas, including robotics, control systems, mechanical design, electronics, machine learning, deep learning, computer vision systems, and systems integration.
 
