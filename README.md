@@ -34,7 +34,6 @@ Mechatronics engineer with a particular focus on automation, mechanical design, 
   <img src="https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white">
   <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black">
   
-machine learning libraries
 </span>
 
 <h4> machine learning libraries </h4>
