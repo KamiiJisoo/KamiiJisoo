@@ -5,7 +5,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Ingeniero mecatrónico con un enfoque particular en automatización, diseño mecánico, programación e inteligencia artificial. A lo largo de mi viaje académico, he tenido la oportunidad de explorar una amplia gama de áreas, incluyendo robótica, sistemas de control, diseño mecánico, electrónica, machine learning, Deep learning, sistemas de visión artificial e integración de sistemas.
+Mechatronics engineer with a particular focus on automation, mechanical design, programming, and artificial intelligence. Throughout my academic journey, I've had the opportunity to explore a wide range of areas, including robotics, control systems, mechanical design, electronics, machine learning, deep learning, computer vision systems, and systems integration.
 
 
 ## My Skills Include
