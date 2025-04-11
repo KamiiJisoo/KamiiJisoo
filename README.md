@@ -7,6 +7,7 @@
 
 Mechatronics engineer with a particular focus on automation, mechanical design, programming, and artificial intelligence. Throughout my academic journey, I've had the opportunity to explore a wide range of areas, including robotics, control systems, mechanical design, electronics, machine learning, deep learning, computer vision systems, and systems integration.
 
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 
 ## My Skills Include
 
