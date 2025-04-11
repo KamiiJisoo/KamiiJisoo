@@ -1,13 +1,13 @@
 <h1 align="center"><b>Hi , I'm David Barrera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
-
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 
 **About me**
 
 Mechatronics engineer with a particular focus on automation, mechanical design, programming, and artificial intelligence. Throughout my academic journey, I've had the opportunity to explore a wide range of areas, including robotics, control systems, mechanical design, electronics, machine learning, deep learning, computer vision systems, and systems integration.
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+
 
 ## My Skills Include
 
