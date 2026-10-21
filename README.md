@@ -5,8 +5,10 @@
 
 **About me**
 
-Mechatronics engineer with a particular focus on automation, mechanical design, programming, and artificial intelligence. Throughout my academic journey, I've had the opportunity to explore a wide range of areas, including robotics, control systems, mechanical design, electronics, machine learning, deep learning, computer vision systems, and systems integration.
-
+Artificial Intelligence Specialist and Mechatronics Engineer with experience in data analysis, software development, and process
+automation. Focused on machine learning and computer vision, using Python, scikit-learn, TensorFlow, and PyTorch to build and
+evaluate predictive models and integrate them through APIs and web and mobile applications. Interested in turning data into
+scalable solutions that support decision-making and create value in real-world settings.
 
 
 ## My Skills Include
